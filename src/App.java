@@ -8,7 +8,8 @@ class Main {
             JUnitCore.runClasses(HospitalManagementTests.class);
         } else {
             System.out.println("Running in GUI mode...");
-            ModeSelect window = new ModeSelect("Ubeyda's Healthcare");
+            ModeSelect window = new ModeSelect("UN's Healthcare");
         }
     }
 }
+
