@@ -1,0 +1,8 @@
+* There are hidden details left for coder.
+* Exceptions are for unit testing
+* There need to be 2 modes:
+    - GUI Mode:
+        1. No exceptions will be thrown
+    - Not-GUI Mode (TTY mode?):
+        1. All exceptions will be thrown
+* At least 2 JUnit tests for each class
